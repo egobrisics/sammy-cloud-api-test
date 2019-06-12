@@ -1,0 +1,17 @@
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.deps.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.runtimeconfig.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.runtimeconfig.dev.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.csprojAssemblyReference.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.csproj.CoreCompileInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.RazorAssemblyInfo.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.RazorAssemblyInfo.cs
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.AssemblyInfoInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.AssemblyInfo.cs
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.RazorTargetAssemblyInfo.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudData.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\bin\Release\netcoreapp2.1\linux-x64\SammyCloudData.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudAPI\obj\Release\netcoreapp2.1\linux-x64\SammyCloudAPI.csproj.CopyComplete

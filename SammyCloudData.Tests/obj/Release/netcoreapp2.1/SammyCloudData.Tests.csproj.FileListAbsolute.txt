@@ -1,0 +1,17 @@
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.Tests.deps.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.Tests.runtimeconfig.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.Tests.runtimeconfig.dev.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.Tests.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.Tests.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\bin\Release\netcoreapp2.1\SammyCloudData.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.csprojAssemblyReference.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.csproj.CoreCompileInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.AssemblyInfoInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.AssemblyInfo.cs
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.csproj.CopyComplete
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData.Tests\obj\Release\netcoreapp2.1\SammyCloudData.Tests.pdb

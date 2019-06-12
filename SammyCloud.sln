@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SammyCloudAPI", "SammyCloudAPI\SammyCloudAPI.csproj", "{B28C935D-A5FF-448B-8E49-DB3BDFABBE58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SammyCloudData", "SammyCloudData\SammyCloudData.csproj", "{526FF2F8-68B2-4259-88E2-C71353DCE7FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SammyCloudData.Tests", "SammyCloudData.Tests\SammyCloudData.Tests.csproj", "{A8A3E8E3-59C8-4E25-8BB9-5609EC417993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28C935D-A5FF-448B-8E49-DB3BDFABBE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28C935D-A5FF-448B-8E49-DB3BDFABBE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28C935D-A5FF-448B-8E49-DB3BDFABBE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28C935D-A5FF-448B-8E49-DB3BDFABBE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526FF2F8-68B2-4259-88E2-C71353DCE7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526FF2F8-68B2-4259-88E2-C71353DCE7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526FF2F8-68B2-4259-88E2-C71353DCE7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526FF2F8-68B2-4259-88E2-C71353DCE7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A3E8E3-59C8-4E25-8BB9-5609EC417993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A3E8E3-59C8-4E25-8BB9-5609EC417993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A3E8E3-59C8-4E25-8BB9-5609EC417993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A3E8E3-59C8-4E25-8BB9-5609EC417993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FEB33D6-2DA7-4B4B-BCF9-A34EED444642}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.21:8080/tfs/icssoftware
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SammyCloudAPI\\SammyCloudAPI.csproj
+		SccProjectName1 = SammyCloudAPI
+		SccLocalPath1 = SammyCloudAPI
+		SccProjectUniqueName2 = SammyCloudData\\SammyCloudData.csproj
+		SccProjectName2 = SammyCloudData
+		SccLocalPath2 = SammyCloudData
+		SccProjectUniqueName3 = SammyCloudData.Tests\\SammyCloudData.Tests.csproj
+		SccProjectName3 = SammyCloudData.Tests
+		SccLocalPath3 = SammyCloudData.Tests
+	EndGlobalSection
+EndGlobal

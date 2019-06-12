@@ -1,0 +1,11 @@
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\bin\Debug\netcoreapp2.1\SammyCloudData.deps.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\bin\Debug\netcoreapp2.1\SammyCloudData.runtimeconfig.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\bin\Debug\netcoreapp2.1\SammyCloudData.runtimeconfig.dev.json
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\bin\Debug\netcoreapp2.1\SammyCloudData.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\bin\Debug\netcoreapp2.1\SammyCloudData.pdb
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.csprojAssemblyReference.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.csproj.CoreCompileInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.AssemblyInfoInputs.cache
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.AssemblyInfo.cs
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.dll
+C:\Users\egobris\Documents\Visual Studio 2017\Projects\SammyCloud\SammyCloudData\obj\Debug\netcoreapp2.1\SammyCloudData.pdb
